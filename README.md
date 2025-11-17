@@ -83,7 +83,7 @@ psycomark-project/
 ├── README.md
 └── .gitignore
 
-
+![alt text](image.png)
 ---
 
 ## ⚙️ Setup Instructions (Reproducible Workflow)
