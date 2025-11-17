@@ -66,24 +66,6 @@ We are now ready to proceed with **classifier training and NER modeling**.
 
 ## 📁 Repository Structure
 
-psycomark-project/
-├── data/
-│ ├── raw/
-│ ├── processed/
-├── models/
-├── notebooks/
-│ ├── classification_training.ipynb
-│ ├── ner_training.ipynb
-├── src/
-│ ├── rehydration/
-│ ├── classification/
-│ ├── ner/
-│ ├── evaluation/
-├── submissions/
-├── README.md
-└── .gitignore
-
-![alt text](image.png)
 ---
 
 ## ⚙️ Setup Instructions (Reproducible Workflow)
